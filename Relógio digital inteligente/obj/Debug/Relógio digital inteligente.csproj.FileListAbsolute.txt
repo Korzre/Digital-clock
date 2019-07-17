@@ -1,0 +1,23 @@
+c:\users\korzre\documents\visual studio 2012\Projects\Relógio digital inteligente\Relógio digital inteligente\bin\Debug\Relógio digital inteligente.exe.config
+c:\users\korzre\documents\visual studio 2012\Projects\Relógio digital inteligente\Relógio digital inteligente\bin\Debug\Relógio digital inteligente.exe
+c:\users\korzre\documents\visual studio 2012\Projects\Relógio digital inteligente\Relógio digital inteligente\bin\Debug\Relógio digital inteligente.pdb
+c:\users\korzre\documents\visual studio 2012\Projects\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio digital inteligente.csprojResolveAssemblyReference.cache
+c:\users\korzre\documents\visual studio 2012\Projects\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio_digital_inteligente.Form1.resources
+c:\users\korzre\documents\visual studio 2012\Projects\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio_digital_inteligente.Properties.Resources.resources
+c:\users\korzre\documents\visual studio 2012\Projects\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio digital inteligente.csproj.GenerateResource.Cache
+c:\users\korzre\documents\visual studio 2012\Projects\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio digital inteligente.exe
+c:\users\korzre\documents\visual studio 2012\Projects\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio digital inteligente.pdb
+c:\users\korzre\documents\visual studio 2012\Projects\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio_digital_inteligente.Form2.resources
+D:\Relógio digital inteligente\Relógio digital inteligente\bin\Debug\Relógio digital inteligente.exe.config
+D:\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio digital inteligente.exe
+D:\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio digital inteligente.pdb
+D:\Relógio digital inteligente\Relógio digital inteligente\bin\Debug\Relógio digital inteligente.exe
+D:\Relógio digital inteligente\Relógio digital inteligente\bin\Debug\Relógio digital inteligente.pdb
+D:\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio digital inteligente.csprojResolveAssemblyReference.cache
+D:\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio_digital_inteligente.Form1.resources
+D:\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio_digital_inteligente.Form2.resources
+D:\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio_digital_inteligente.Properties.Resources.resources
+D:\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio digital inteligente.csproj.GenerateResource.Cache
+E:\Relógio digital inteligente\Relógio digital inteligente\bin\Debug\Relógio digital inteligente.exe.config
+E:\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio digital inteligente.exe
+E:\Relógio digital inteligente\Relógio digital inteligente\obj\Debug\Relógio digital inteligente.pdb
